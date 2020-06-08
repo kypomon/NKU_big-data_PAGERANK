@@ -1,0 +1,4 @@
+DataAnalysis.py为分析不同beta值下的PageRank值的文件
+由于DataAnalysis.py需要与BasicPageRank.py同目录才可运行
+因此DataAnalysis.py放在了基础PageRank算法文件夹中
+运行时请将WikiData.txt放入两个文件夹中
